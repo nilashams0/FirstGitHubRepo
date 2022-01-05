@@ -14,5 +14,10 @@ public void methodB(){
   //this is second method for practice purpose only
 
 }
-}
 
+	public void methodc() {
+		//this is my code
+		
+	}
+
+}
