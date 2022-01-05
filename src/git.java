@@ -8,6 +8,6 @@ public void methodA(){
 }
 
 public void methodB(){
-  //this is second mrthod for practice purpose
+  //this is second mrthod for practice purpose only
 
 }
